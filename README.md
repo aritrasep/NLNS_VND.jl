@@ -9,6 +9,7 @@
 
 ## Please Cite the Following Paper: ##
 
+```
 @article{Pal201792,
 title = "Free-floating bike sharing: Solving real-life large-scale static rebalancing problems ",
 journal = "Transportation Research Part C: Emerging Technologies ",
@@ -22,3 +23,4 @@ doi = "https://doi.org/10.1016/j.trc.2017.03.016",
 url = "http://www.sciencedirect.com/science/article/pii/S0968090X17300992",
 author = "Aritra Pal and Yu Zhang"
 }
+```
