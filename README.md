@@ -3,9 +3,12 @@
 ## The following classes of problems can be solved: ##
 
 1. Static Complete Rebalancing Problem in ( Station-based and Free-Floating ) Bike Sharing Systems.
-2. (Symmetric) Traveling Salesman Problem
-3. Multiple Traveling Salesman Problem
-4. Capacitated Vehicle Routing Problem
+2. (Symmetric) Traveling Salesman Problem (STSP)
+3. Multiple Traveling Salesman Problem (mTSP)
+4. 1 Commodity Pickup and Delivery Traveling Salesman Problem (1-PDTSP)
+5. Traveling Salesman Problem with Time Windows (TSPTW)
+6. Capacitated Vehicle Routing Problem (CVRP)
+7. Capacitated Vehicle Routing Problem with Time Windows (CVRPTW)
 
 ## Please Cite the Following Paper: ##
 
